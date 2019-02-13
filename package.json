@@ -1,0 +1,11 @@
+{
+  "name": "vdom-maker",
+  "version": "1.0.0",
+  "description": "Make virtual DOM elements from scratch",
+  "main": "vdom-maker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maddy Kim | madleo | root.madleo@gmail.com",
+  "license": "ISC"
+}
