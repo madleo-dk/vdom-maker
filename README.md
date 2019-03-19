@@ -17,7 +17,7 @@ To use the library, load the script into your index.html file and you should be 
 ```
 
 All that's left is to utilize the API.
-Note that vdom-maker.js is heavily commented and should/hopefully provide and strong basis for understanding this library quickly.
+Note that vdom-maker.js is heavily commented and should (hopefully) provide and strong basis for understanding this library quickly.
 
 ## API
 
